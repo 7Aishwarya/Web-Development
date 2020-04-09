@@ -1,1 +1,1 @@
-# leraning-repo
+# learning web development
